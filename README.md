@@ -1,2 +1,2 @@
-# onodera_github.io
+# onodera.github.io
 名刺、ポートフォリオ
